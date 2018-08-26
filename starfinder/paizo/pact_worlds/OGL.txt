@@ -31,30 +31,15 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 14 Reformation: If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.
 
 15 COPYRIGHT NOTICE
+
 Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
 
-System Reference Document. Copyright 2000, Wizards of the Coast, Inc.; Authors Jonathan Tweet, Monte Cook, Skip Williams, based on material by E. Gary Gygax and Dave Arneson.
+System Reference Document. Copyright 2000. Wizards of the Coast, Inc.; Authors Jonathan Tweet, Monte Cook, Skip Williams, based on material by E. Gary Gygax and Dave Arneson.
 
-Starfinder Roleplaying Game Core Rulebook. © 2017, Paizo Inc.; Authors: Alexander Augunas, Logan Bonner, Jason Bulmahn, Thurston Hillman, Amanda Hamon Kunz, Jason Keeley, Robert G. McCreary, Stephen Radney-MacFarland, Amber E. Scott, Mark Seifter, Owen K.C. Stephens, and James L. Sutter, based on material by Jonathan Tweet, Monte Cook, and Skip Williams.
+Mongrelman from the Tome of Horrors Complete Copyright 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene, based on original material by Gary Gygax.
 
-Modern System Reference Document Copyright 2002-2004,Wizards of the Coast, Inc.; Authors Bill Slavicsek, Jeff Grubb, Rich Redman, Charles Ryan, Eric Cagle, David Noonan, Stan!, Christopher Perkins, Rodney Thompson, and JD Wiker, based on material by Jonathan Tweet, Monte Cook, Skip Williams, Richard Baker, Peter Adkison, Bruce R. Cordell, John Tynes, Andy Collins,and JD Wiker.
+Starfinder  Core  Rulebook Copyright 2017,  Paizo  Inc.;  Authors:  Logan  Bonner, Jason Bulmahn, Amanda Hamon Kunz, Jason Keeley, Robert G. McCreary, Stephen Radney-MacFarland, Mark Seifter, Owen K.C. Stephens, and James L. Sutter, with Alexander Augunas, Judy Bauer, John Compton, Adam Daigle, Crystal Frasier, Lissa Guillet, Thurston Hillman, Erik Mona, Mark Moreland, Jessica Price, F. Wesley Schneider, Amber E. Scott, and Josh Vogt.
 
-Future: 13 Starship Devices, copyright 2005 Philip Reed.Published by Ronin Arts www.roninarts.com.
+Starfinder Pact Worlds Copyright 2018, Paizo Inc.; Authors: Alexander Augunas, Judy Bauer, Robert Brookes, Jason Bulmahn, John Compton, Amanda Hamon Kunz, Thurston Hillman, Mikko Kallio, Jason Keeley, Jonathan Keith, Steve Kenson, Lyz Liddell, Ron Lundeen, Robert G. McCreary, David N. Ross, Owen K.C. Stephens, James L. Sutter, and Russ Taylor.
 
-Future: Datastream 06.2005, copyright 2005 Michael Hammes and Philip Reed. Published by Ronin Arts www.roninarts.com. Based on SkeletonKey Games’ e-Future Tiles sets –www.skeletonkeygames.com.
-
-Future: Datastream 06.2005, copyright 2005 Michael Hammes and Philip Reed. Published by Ronin Arts www.roninarts.com. Based on SkeletonKey Games’ e-Future Tiles sets –www.skeletonkeygames.com.
-
-Future: Datastream 09.2005, copyright 2005 Michael Hammes and Philip Reed. Published by Ronin Arts www.roninarts.com. Based on SkeletonKey Games’ e-Future Tiles sets –www.skeletonkeygames.com.
-
-Future: Datastream 07.2005, copyright 2005 Michael Hammes and Philip Reed. Published by Ronin Arts www.roninarts.com. Based on SkeletonKey Games’ e-Future Tiles sets –www.skeletonkeygames.com.
-
-Future: Player’s Companion: Tomorrows’ Foundation, Copyright 2005 The Game Mechanics,Inc.; Authors:Gary Astleford,Rodney Thompson,and JD Wiker.
-
-Sci-Fi Seeds II, Copyright 2004, Expeditious Retreat Press, Authors:William Curtis, Chris Field, Rhian Hunt, Matthew Lane, Khaver Siddiqi
-
-Future: 13 Starship Devices, copyright 2005 Philip Reed.Published by Ronin Arts www.roninarts.com.
-
-Infinite Space: Themes: The Outlaw Crew, Copyright 2017, Louis Porter Jr. Design, Inc.
-
-PCGen dataset conversion for "Infinite Space: Themes: The Outlaw Crew" Copyright 2018, PCGen Data team (Including, but not limited to Jonas Karlsson).
+PCGen dataset conversion for "Starfinder Pact Worlds" Copyright 2018, PCGen Data team (Including, but not limited to  Iridios DelZul)
